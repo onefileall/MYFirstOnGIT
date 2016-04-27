@@ -22,3 +22,14 @@ Complete Code Bat 1/2 exercise
 Security
 Testing
 Development
+
+
+
+=========
+
+yara rules
+robotium
+mf
+sig
+decompiling
+
